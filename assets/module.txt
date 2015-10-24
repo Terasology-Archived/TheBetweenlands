@@ -1,0 +1,9 @@
+{
+    "id" : "Medio Terra",
+    "version" : "0.1.2-SNAPSHOT",
+    "author" : "Angry Pixel Modding Group",
+    "displayName" : "The BetweenLands",
+    "description" : "This module is a port of the Minecraft mod of the same name. http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1441135-wip-reboot-dimension-the-betweenlands-a-dark",
+    "dependencies" : [],
+    "isServerSideOnly" : false
+}
