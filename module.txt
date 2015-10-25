@@ -1,9 +1,9 @@
 {
-    "id" : "Medio Terra",
+    "id" : "the betweenlands",
     "version" : "0.1.2-SNAPSHOT",
     "author" : "Angry Pixel Modding Group",
-    "displayName" : "The BetweenLands",
-    "description" : "This module is a port of the Minecraft mod of the same name. http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1441135-wip-reboot-dimension-the-betweenlands-a-dark",
+    "displayName" : "The BetweenLands Assets",
+    "description" : "Original Assets. This can be applied to the Terasology version of the BetweenLands to get an experiance similar to the minecraft version. http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1441135-wip-reboot-dimension-the-betweenlands-a-dark",
     "dependencies" : [],
     "isServerSideOnly" : false
 }
